@@ -1,0 +1,1 @@
+Learning how to program in Python3 and Git. Just tracking my progress here.
